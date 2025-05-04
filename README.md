@@ -8,7 +8,7 @@
 
 I initially used the [einkbro](https://github.com/plateaukao/einkbro) browser. But the latest versions stopped working reliably on my [Onyx Boox](https://www.boox.com/), and eventually, the browser stopped working altogether.
 
-So, I installed Via. This browser supports adding scripts compatible with _Greasmonkey_, _Tampermonkey_, etc. And that's how **E-ink Friendlyier** was created.
+So, I installed Via. This browser supports adding scripts compatible with _Greasemonkey_, _Tampermonkey_, etc. And that's how **E-ink Friendlyier** was created.
 
 Besides adapting website colors, this user script also attempts to make all interactive elements, like links and buttons, clearly visible.
 
@@ -36,9 +36,9 @@ https://raw.githubusercontent.com/dotninth/eink-friendlyifier/refs/heads/main/us
 
 6. Reload the page you were on to see the script working.
 
-### Greasemonkey, Tampermonkey, etc
+### Greaseemonkey, Tampermonkey, etc
 
-To install the script in _Greasmonkey_, _Tampermonkey_, or similar browser extensions:
+To install the script in _Greasemonkey_, _Tampermonkey_, or similar browser extensions:
 
 1. Open the script itself _(link below)_, select all its text _(Ctrl + A)_, and copy it to your clipboard:
 
@@ -46,7 +46,7 @@ To install the script in _Greasmonkey_, _Tampermonkey_, or similar browser exten
 https://raw.githubusercontent.com/dotninth/eink-friendlyifier/refs/heads/main/userscript.js
 ```
 
-2. Find the extension (e.g., Greasmonkey) in your browser's toolbar. In the extension's menu, select "New User Script".
+2. Find the extension (e.g., Greasemonkey) in your browser's toolbar. In the extension's menu, select "New User Script".
 
 3. Paste the script code you copied in step 1.
 
